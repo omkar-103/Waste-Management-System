@@ -27,8 +27,7 @@ Since this is a front-end project, no installation is required. You can view the
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/waste-to-wealth-donation-platform.git
-    cd waste-to-wealth-donation-platform
+    git clone https://github.com/omkar-103/Waste-Management-System
     ```
 
 2. **Open `index.html`** in your preferred web browser to view the platform locally.
@@ -64,7 +63,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please contact us at [omkarparelkar@example.com](mailto:omkarparelkar@example.com).
+For any questions or support, please contact us at [omkarparelkar@gmail.com](mailto:omkarparelkar@gmail.com).
 
 ## Acknowledgements
 
